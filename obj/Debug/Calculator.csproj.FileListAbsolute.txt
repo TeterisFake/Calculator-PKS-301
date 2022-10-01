@@ -1,0 +1,21 @@
+D:\Visual Studio 2019 Repositories\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Visual Studio 2019 Repositories\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Visual Studio 2019 Repositories\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Visual Studio 2019 Repositories\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\Visual Studio 2019 Repositories\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\Visual Studio 2019 Repositories\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\Visual Studio 2019 Repositories\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\Visual Studio 2019 Repositories\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2019 Repositories\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Visual Studio 2019 Repositories\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\TeterisFake\Desktop\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\TeterisFake\Desktop\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\TeterisFake\Desktop\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\TeterisFake\Desktop\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\TeterisFake\Desktop\Calculator\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\TeterisFake\Desktop\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\TeterisFake\Desktop\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\TeterisFake\Desktop\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\TeterisFake\Desktop\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\TeterisFake\Desktop\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\TeterisFake\Desktop\Calculator\Calculator\obj\Debug\Calculator.pdb
